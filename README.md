@@ -44,23 +44,6 @@ To build and run the project, you need:
     ./hex_game
     ```
 
-### Using CMake:
-
-1. Create a build directory and navigate to it:
-    ```bash
-    mkdir build && cd build
-    ```
-
-2. Run CMake and build:
-    ```bash
-    cmake ..
-    make
-    ```
-
-3. Execute the program:
-    ```bash
-    ./hex_game
-    ```
 
 ## How to Play
 
