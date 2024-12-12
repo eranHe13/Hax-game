@@ -30,8 +30,8 @@ To build and run the project, you need:
 
 1. Clone this repository:
     ```bash
-    git clone <repository-url>
-    cd <repository-folder>
+    git clone https://github.com/eranHe13/Hax-game.git
+    
     ```
 
 2. Compile the code:
